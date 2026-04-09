@@ -18,7 +18,21 @@ Currently pursuing my B.Tech in Computer Science, I am actively working on proje
   - Real-time football analytics using computer vision
 
 ---
+## 🔬Patent & Datasets
 
+• 🧾 **Patent**  
+Design Patent: *Internet of Things Based Device for Real-Time Data Collection and Augmentation for Agricultural Samples*  
+👉 [View Patent](https://drive.google.com/file/d/1fnbNIrKeal7NGtuPIZunkuAs7jU-0VHw/view?usp=sharing)
+
+• 📊 **Datasets**
+
+- **Indian Ridge Gourd Leaf Dataset (IEEE DataPort)**  
+  Preprocessed dataset for plant disease classification (healthy vs diseased leaves)  
+  👉 [View Dataset](https://ieee-dataport.org/documents/preprocessed-indian-ridge-gourd-leaf-image-dataset-healthy-and-diseased-leaf-minor)
+
+- **Brinjal Leaf Disease Dataset (Mendeley Data)**  
+  Dataset for multi-class plant disease detection  
+  👉 [View Dataset](https://data.mendeley.com/datasets/c39p3k87g2/1)
 ## 🧠 Skills
 
 • **Languages:** Python (advanced), C++ (intermediate), Java (intermediate), JavaScript (basic), C (basic)  
