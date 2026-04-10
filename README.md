@@ -61,4 +61,5 @@ Artificial Intelligence • Machine Learning • Deep Learning • Computer Visi
 
 ## 📫 Connect with Me
 
+- 🌐 Portfolio: https://agarwalpranay02.github.io  
 - LinkedIn: https://www.linkedin.com/in/pranay-agarwal-83b177295/
